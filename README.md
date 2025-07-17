@@ -1,9 +1,9 @@
-# Dingdong_Ji 🎮![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+# 叮咚鸡 🎮![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 [![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-100-orange.svg)]()
 
-> 一个强大的游戏自动化管理工具，支持多游戏队列管理、智能时间控制、微信通知和自动关机功能。
+> 一个强大的游戏脚本自动化管理工具，支持多游戏脚本队列管理、智能时间控制、微信通知和自动关机功能。
 
 ## ✨ 功能特点
 
