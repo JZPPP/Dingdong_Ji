@@ -18,12 +18,6 @@
 
 ## 🚀 快速开始
 
-### 运行的三种方法（先配置config）：
-
-- 1.直接运行EXE文件
-- 2.配置好依赖后运行build_exe.bat自行编译exe
-- 3.配置好依赖后python queueGame.py运行脚本
-
 
 ### 环境要求
 
