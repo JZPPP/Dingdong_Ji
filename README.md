@@ -22,7 +22,7 @@
 
 - 1.直接运行EXE文件
 - 2.配置好依赖后运行build_exe.bat自行编译exe
-- 3.配置好依赖后run_queue_game.bat运行脚本
+- 3.配置好依赖后python queueGame.py运行脚本
 
 
 ### 环境要求
@@ -42,13 +42,16 @@ cd Dingdong_Ji
 2. **安装依赖**
 ```bash
 pip install -r requirements.txt
-```3*配置设置**
+```
+
+3. **配置设置**
 编辑 `config.json` 文件，配置您的游戏和通知设置。
 
-4. **运行程序**
-```bash
-python queueGame.py
-```
+4. **运行程序的三种方法**
+- 1.直接运行EXE文件
+- 2.配置好依赖后运行build_exe.bat自行编译exe
+- 3.配置好依赖后运行run_queue_game.bat运行脚本
+- 4.配置好依赖后```python queueGame.py```运行脚本
 
 ## 📋 配置说明
 
@@ -160,21 +163,7 @@ python queueGame.py
 - 错误信息
 - 完成进度
 
-## 📁 文件结构
 
-```
-Dingdong_Ji/
-├── queueGame.py          # 主程序文件
-├── wxpush.py             # 微信推送模块
-├── shutdown.py           # 关机控制模块
-├── config.json           # 配置文件
-├── requirements.txt      # 依赖列表
-├── build_exe.bat         # 打包脚本
-├── run_queue_game.bat    # 快速启动脚本
-├── Log/                  # 日志文件夹（启用日志时自动创建）
-│   └── YYYY-MM-DD.log    # 按日期生成的日志文件
-└── README.md             # 说明文档
-```
 
 ### 日志文件格式示例
 ```
