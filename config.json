@@ -1,0 +1,40 @@
+{
+    "Settings": {
+        "MaxConcurrent": 1,
+        "AutoShutdown": false,
+        "ShutdownDelay": 60,
+        "Log": true,
+        "StartNotice": false,
+        "EndNotice": false,
+        "WarnNotice": true,
+        "SummaryNotice": true
+    },
+    "HomeAssistant": {
+        "BaseUrl": "http://192.168.10.1:8123",
+        "Token": "11111111111111111",
+        "DeviceId": "11111111111111"
+    },
+    "OBSRecord": false,
+    "OBSPath": "X:/Program Files/obs-studio/bin/64bit/obs64.exe",
+    "MUMUPath": "X:/MuMu Player 12/shell/MuMuManager.exe",
+    "WxPush": {
+        "Secret": "11111111111",
+        "CorpId": "1111111111",
+        "AgentId": 1000003,
+        "ToParty": "1"
+    },
+    "Games": {   
+        "1999":{
+            "ExecPath": "X:/M9A/MFAAvalonia.exe",
+            "Type": "EMU",
+            "MaxTime": 30,
+            "MinTime": 5
+        },
+        "少前2":{
+            "ExecPath": "X:/MaaGF2Exilium.exe",
+            "Type": "PC",
+            "MaxTime": 30,
+            "MinTime": 5
+        }
+    }
+}
