@@ -1,4 +1,4 @@
-# Dingdong_Ji 🎮![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+# Dingdong_Ji 🎮![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)]
 [![Platform](https://img.shields.io/badge/Platform-Windows-green.svg)](https://www.microsoft.com/windows)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-100-orange.svg)]()
