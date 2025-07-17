@@ -18,9 +18,11 @@
 
 ## 🚀 快速开始
 
-- 1.配置好Config直接运行EXE文件即可
+### 运行的三种方法（先配置config）：
+
+- 1.直接运行EXE文件
 - 2.配置好依赖后运行build_exe.bat自行编译exe
-- 3.run_queue_game.bat 直接运行脚本
+- 3.配置好依赖后run_queue_game.bat运行脚本
 
 
 ### 环境要求
